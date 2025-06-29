@@ -14,9 +14,7 @@ function CupContainer() {
           <div className="bg-gray-700 w-1/2 h-full absolute top-0 z-0 opacity-50 "></div>
           <h3 className="ms-8 text-3xl">Black Lifestyle Lovers,</h3>
           <p className="ms-8 mt-3 text-sm/8">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Enim,
-            doloribus dolore cum aspernatur iusto quibusdam tempore. Assumenda,
-            debitis delenition aspernatur
+            This can be seen as a symbol of simplicity, individuality, and a straightforward approach to life. The act of drinking black             coffee, without the addition of milk or sugar, often reflects a preference for a pure, unadulterated experience, both in                 coffee and in life. 
           </p>
         </div>
       </div>
